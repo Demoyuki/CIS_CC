@@ -1,0 +1,53 @@
+$date
+	Fri Oct 20 03:38:05 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module LabExerciseTwo_tb $end
+$var wire 1 ! G $end
+$var wire 1 " H $end
+$var wire 1 # I $end
+$var reg 1 $ a $end
+$var reg 1 % b $end
+$var reg 1 & c $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0&
+0%
+0$
+0#
+0"
+0!
+$end
+#1
+1#
+1&
+#2
+1"
+0&
+1%
+#3
+0#
+1&
+#4
+0&
+0%
+1$
+1!
+#5
+1#
+1&
+#6
+0"
+0&
+1%
+#7
+0#
+1&
+#8
